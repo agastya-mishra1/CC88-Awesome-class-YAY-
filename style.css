@@ -1,0 +1,41 @@
+.body_background{
+background-image: url("avengers.jpg");
+background-position: center;
+background-size:cover;
+}
+#myCanvas{
+background-color: white;   
+margin: 20px;
+width: 90%;
+height: 97%;
+} 
+#dropdown{
+height: 27px;  
+margin-top: 10px;
+font-size: 17px;
+}
+#Title{
+background-color: orange;
+font-size: 60px;
+color: black;    
+}
+#current_width{
+color:black;  
+font-weight: bold;  
+}
+#current_height{
+color:black;    
+font-weight: bold;
+}
+#width{
+color:black;
+font-weight: bold;    
+}
+#height{
+color:black;    
+font-weight: bold;
+}
+button{
+background-color: chartreuse;    
+color: black;
+}
